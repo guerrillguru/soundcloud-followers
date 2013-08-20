@@ -44,7 +44,7 @@
  * USAGE:   run this script when you are on https://soundcloud.com/{your username}/following
  */
 
-var SoundcloudUsername = "enthdegree";
+var SoundcloudUsername = "Enth Degree";
 
 var SoundcloudFollowers;
 $.ajax({
